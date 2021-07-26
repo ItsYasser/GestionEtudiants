@@ -39,4 +39,8 @@ Les clés primaires sont en gras et les clés étrangères sont désignées du s
 ![](https://github.com/ItsYasser/GestionEtudiants/blob/main/ScreenShots/AfficheNoteExamen.png?raw=true)|
  Interface pour l'etudiant             |   
 ![](https://github.com/ItsYasser/GestionEtudiants/blob/main/ScreenShots/EtudiantPanel.png?raw=true)|
-
+## Outils utilisés
+- <b> La Base Des Données : <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white" alt="Oracle"> <img src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=plastic&logo=amazon-dynamodb&logoColor=white" alt="SQL" >
+- Langage de programmation  : <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white" alt="JAVA">
+- IDE : <img src="https://img.shields.io/badge/Netbeans-1B6AC6?style=plastic&&logo=Apache%20NetBeans%20IDE&logoColor=white" alt="Netbeans"> 
+- JDK And JRE Versions : <i>1.8.0_241</i> </b>
