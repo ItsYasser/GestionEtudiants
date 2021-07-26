@@ -44,3 +44,10 @@ Les clés primaires sont en gras et les clés étrangères sont désignées du s
 - Langage de programmation  : <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white" alt="JAVA">
 - IDE : <img src="https://img.shields.io/badge/Netbeans-1B6AC6?style=plastic&&logo=Apache%20NetBeans%20IDE&logoColor=white" alt="Netbeans"> 
 - JDK And JRE Versions : <i>1.8.0_241</i> </b>
+## Plus de détails : 
+Pour plus de détails et de captures d'écran sur cette application, j'ai fait un rapport expliquant chaque page avec le code associé. 
+Téléchargez-le en pdf ici : </a>
+    </a>
+    <a href="https://github.com/ItsYasser/GestionEtudiants/blob/main/RapportDuProjet.pdf">
+    <img src="https://img.shields.io/badge/Download%20PDF-c61b1b?style=flat-square">
+  </a>
